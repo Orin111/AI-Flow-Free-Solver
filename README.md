@@ -1,4 +1,4 @@
-# AIFinalProject
+# AI Flow Free Solver
 
 <img src="readme_img.png" alt="Description of image" width="450" height="250">
 
